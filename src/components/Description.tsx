@@ -19,7 +19,7 @@ const Description = () => {
         {/* English Content */}
         <div className="w-[90%] text-lg space-y-6">
           <p>
-            <strong>Hanfia Alamgir</strong> is a socio-religious organization rooted in the vision of <strong>Ilm Dosti</strong>, <strong>Qalam Dosti</strong>, <strong>Kitab Dosti</strong>, and <strong>Insaan Dosti</strong>. Since its inception in 1956, it has been a recognized <strong>Center of Ahle Sunnat wa Jama'at</strong> serving the community in multiple domains.
+            <strong>Hanfia Alamgir</strong> is a socio-religious organization rooted in the vision of <strong>Ilm Dosti</strong>, <strong>Qalam Dosti</strong>, <strong>Kitab Dosti</strong>, and <strong>Insaan Dosti</strong>. Since its inception in 1956, it has been a recognized <strong>Center of Ahle Sunnat wa Jama&apos;at</strong> serving the community in multiple domains.
           </p>
 
           <p>
