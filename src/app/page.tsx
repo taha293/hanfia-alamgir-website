@@ -10,7 +10,7 @@ const page = () => {
   return (
      <main className="relative bg-black-100 flex flex-col items-center justify-center overflow-hidden mx-auto">
             <Hero/>
-        <div className="max-w-[1320px] w-full">
+        <div className="max-w-[2560px] w-full">
             <Description/>
             <Jamia/>
             <Message/>
